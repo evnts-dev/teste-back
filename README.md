@@ -22,7 +22,7 @@ Se você recebeu um convite para estar aqui você faz parte de um grupo de pesso
 
 Fizemos este teste com muito carinho e esperamos que você consiga se sair bem 👍
 
-O teste consiste em testar suas habilidades em construir soluções para o _Back-end_.
+O teste consiste em testar suas habilidades em construir soluções para o _back-end_.
 
 
 Todo o seu código deve ser disponibilizado em um repositório em seu _github_ ou _bitbucket_ pessoal. Envie o link para o email que te enviamos (vagas@evnts.com.br).
@@ -34,7 +34,7 @@ Boa sorte!
 
 Este desafio tem duas etapas. Em cada uma delas é possível fazer atividades extras para ganhar uns pontinhos a mais com a gente 😉
 
-Na primeira queremos entender como você arquitetura um sistema e além do seu domínio das tecnologias, legibilidade de código, entre outras coisas.
+Na primeira queremos entender como você arquitetura um sistema, seu domínio das tecnologias, legibilidade de código, entre outras coisas.
 
 A segunda etapa consiste de exercícios de programação. Queremos ver sua lógica de programação, como você aborda as situações que surgirão no dia-a-dia, e sua capacidade para resolver problemas incomuns.
 
@@ -51,20 +51,20 @@ A Evnts é uma empresa mineira, cheia de mineiros, então nada melhor que um tes
 </center>
 
 
-A única restrição de tecnologia é o ```NodeJs```. Utilize qualquer framework, ferramenta e serviço que quiser. O mesmo serve para o banco de dados, relacional ou não relacional (```MySQL```, ```Firebase```, ```Mongo```, etc. Você quem manda!. Não se esqueça de elaborar sua solução, os detalhes de arquitetura e a escolha de frameworks e padrões de projeto.
+A única restrição de tecnologia é o ```NodeJs```. Utilize qualquer framework, ferramenta e serviço que quiser. O mesmo serve para o banco de dados, relacional ou não relacional (```MySQL```, ```Firebase```, ```Mongo```, etc). Você quem manda!. Não se esqueça de elaborar sua solução, os detalhes de arquitetura e a escolha de frameworks e padrões de projeto.
 
-Pontos extras se usar GraphQL``` 😁
+Pontos extras se usar ```GraphQL``` 😁
 
 Não se esqueça de fazer de uma forma que seja simples para rodar o seu serviço localmente e, como este serviço será um SUCESSO MUNDIAL ele deve ser a prova de erros!
 
 
-### 3.2 EndPoints
+### 3.2 Endpoints
 
 Para isso, precisaremos das seguintes rotas:
 
 1. **Cadastrar Restaurante**
 
-Receber as informações relevantes do restaurante e criar um novo cadastro do mesmo na base. Verificar se já não existe o mesmo antes de inserir. Além de todos os dados que julgar pertinente, o restaurante deve ter um **tipo de cozinha** (Árabe, Brasileira, Chinesa, Francesa, frutos do mar, Vegetariana, Italiana, Pizza, Hambúrguer, Lanches, etc..).
+Receber as informações relevantes do restaurante e criar um novo cadastro do mesmo na base. Verificar se já não existe o mesmo antes de inserir. Além de todos os dados que julgar pertinente, o restaurante deve ter um **tipo de culinária** (Árabe, Brasileira, Chinesa, Francesa, frutos do mar, vegetariana, Italiana, pizza, hambúrguer, lanches, etc..).
 
 2. **Cadastrar Item**
 
@@ -73,7 +73,7 @@ Dado um restaurante, cadastrar um novo item ao cardápio daquele restaurante. Es
 
 3. **Atualizar Item**
 
-Dado um restaurante e um Item, atualizar o preço e os demais dados para os novos passados.
+Dado um restaurante e um Item, atualizar o preço e os demais dados para os novos dados informados.
 
 
 4. **Listar restaurantes**
