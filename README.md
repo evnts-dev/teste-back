@@ -51,7 +51,9 @@ A Evnts é uma empresa mineira, cheia de mineiros, então nada melhor que um tes
 </center>
 
 
-A única restrição de tecnologia é o ```NodeJs```. Utilize qualquer framework, ferramenta e serviço que quiser. O mesmo serve para o banco de dados, relacional ou não relacional (```MySQL```, ```Firebase```, ```Mongo```, etc. Você quem manda! [Pontos extras se usar firebase 😁]). Não se esqueça de elaborar sua solução, os detalhes de arquitetura e a escolha de frameworks e padrões de projeto.
+A única restrição de tecnologia é o ```NodeJs```. Utilize qualquer framework, ferramenta e serviço que quiser. O mesmo serve para o banco de dados, relacional ou não relacional (```MySQL```, ```Firebase```, ```Mongo```, etc. Você quem manda!. Não se esqueça de elaborar sua solução, os detalhes de arquitetura e a escolha de frameworks e padrões de projeto.
+
+Pontos extras se usar GraphQL``` 😁
 
 Não se esqueça de fazer de uma forma que seja simples para rodar o seu serviço localmente e, como este serviço será um SUCESSO MUNDIAL ele deve ser a prova de erros!
 
