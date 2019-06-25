@@ -101,7 +101,7 @@ Esta etapa consiste em testar sua lógica de programação! Para isso utilizamos
 
 Os exercícios tem um valor (pontos), quanto mais pontos você fizer melhor!
 
-Faça no mínimo **7 PONTOS**
+Faça no mínimo **12 PONTOS**
 
 Tutorial de como utilizar o URI: https://www.loom.com/share/1a7b7b00c41e4975aca013ef0814410b
 
