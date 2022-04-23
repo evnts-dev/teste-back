@@ -32,7 +32,7 @@ Boa sorte!
 ## 2 Descrição
 
 
-Este desafio tem duas etapas. Em cada uma delas é possível fazer atividades extras para ganhar uns pontinhos a mais com a gente 😉
+Este desafio tem duas etapas. Um obrigatória e outra opcional para para ganhar uns pontinhos a mais com a gente 😉
 
 Na primeira queremos entender como você arquitetura um sistema, seu domínio das tecnologias, legibilidade de código, entre outras coisas.
 
@@ -95,15 +95,13 @@ Se você quiser mostrar o quanto você é fera, nos ajude a desenvolver um __fro
 Você também pode ganhar pontos extras implementando um sistema de autenticação, permitindo apenas que o restaurante cadastre/atualize itens se estiver logado (obviamente, permitindo apenas que altere/adicione seus itens).
 
 
-## 4 Desafios de Lógica
+## 4 Desafios de Lógica [OPCIONAL]
 
 ### 4.1 Descrição
 
 Esta etapa consiste em testar sua lógica de programação! Para isso utilizamos a ferramenta [URI](https://www.urionlinejudge.com.br), uma plataforma com diversos problemas de maratona de programação, onde você pode utilizar diversas linguagens para resolvê-los (```Java```, ```Python```, ```C```, entre outras). Utilize o ```Javascript``` para esta atividade!
 
 Os exercícios tem um valor (pontos), quanto mais pontos você fizer melhor!
-
-Faça no mínimo **12 PONTOS**
 
 Tutorial de como utilizar o URI: https://www.loom.com/share/1a7b7b00c41e4975aca013ef0814410b
 
